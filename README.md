@@ -14,9 +14,20 @@ This is a basic static HTML starter project you can build on however you like. N
 
 ![Glitch](https://cdn.glitch.com/a9975ea6-8949-4bab-addb-8a95021dc2da%2FLogo_Color.svg?v=1602781328576)
 
-## You built this with Glitch!
+## New Page Starter Code! (DO NOT Erase!!)
 
-[Glitch](https://glitch.com) is a friendly community where millions of people come together to build web apps and websites.
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <link rel="icon" href="https://glitch.com/favicon.ico" />
 
-- Need more help? [Check out our Help Center](https://help.glitch.com/) for answers to any common questions.
-- Ready to make it official? [Become a paid Glitch member](https://glitch.com/pricing) to boost your app with private sharing, more storage and memory, domains and more.
+    <title>Hello world!</title>
+
+  </head>
+  <body>
+ 
+  </body>
+</html>
+
