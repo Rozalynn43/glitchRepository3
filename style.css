@@ -20,34 +20,7 @@ body {
 /* images and videos max out at full width */
 img,
 video {
-  height: auto;
-  max-width: 50%;
+  height: 200px;
+  max-width: 100%;
 }
-
-/* NavBar */ 
-
-
-/*
-ul {
-  list-style-type: none;
-  margin: 0;
-  padding: 0;
-  overflow: hidden;
-  background-color: #333333;
-}
-
-li {
-  float: left;
-}
-
-a {
-  display: block;
-  padding: 8px;
-  color: white;
-  text-align: center;
-  padding: 14px 16px;
-  text-decoration: none;
-}
-*/
-
 
