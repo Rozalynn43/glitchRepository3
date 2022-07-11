@@ -21,12 +21,13 @@ body {
 img,
 video {
   height: auto;
-  max-width: 100%;
+  max-width: 50%;
 }
 
 /* NavBar */ 
 
 
+/*
 ul {
   list-style-type: none;
   margin: 0;
@@ -47,5 +48,6 @@ a {
   padding: 14px 16px;
   text-decoration: none;
 }
+*/
 
 
