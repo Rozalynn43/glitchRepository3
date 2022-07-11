@@ -24,3 +24,7 @@ video {
   max-width: 100%;
 }
 
+.footer {
+  padding: 100px;
+  margin: 100px;
+}
