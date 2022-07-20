@@ -47,9 +47,10 @@ video {
 .footer {
   position: fixed;
   border-style: solid;  
-  left: 10;
-  bottom: 0;
-  width: 100%;
+  padding: ;
+  left: ;
+  bottom: ;
+  width: ;
   background-color: #D8DED6;
   text-align: center;
 }
