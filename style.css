@@ -11,10 +11,11 @@ html {
 }
 
 /* adjust typography defaults */
-body {
-  margin: 1rem;
+html, body {
+  margin: 0;
   font-family: sans-serif;
   line-height: 1.5;
+  margin: 10px;
 }
 
 /* images and videos max out at full width */
@@ -22,6 +23,25 @@ img,
 video {
   height: 200px;
   max-width: 100%;
+}
+
+.container  > div {
+  padding: 10px;
+  text-align: center;
+  font-size: 2em;
+  color: #F4ED27;
+}
+
+.container > div:nth-child(1) {
+  background-color: #009693;
+}
+
+.container > div:nth-child(2) {
+  background-color: #68C1B9;
+}
+
+.container > div:nth-child(3) {
+  background-color: #800080;
 }
 
 .footer {
