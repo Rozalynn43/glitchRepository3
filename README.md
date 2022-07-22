@@ -30,26 +30,3 @@ No need to save. While you develop your site, your changes will happen 🪄 imme
  
   </body>
 </html>
-
-## NAVbar Code! (DO NOT Erase!!)
-
-ul {
-list-style-type: none;
-margin: 0;
-padding: 0;
-overflow: hidden;
-background-color: #333333;
-}
-
-li {
-float: left;
-}
-
-a {
-display: block;
-padding: 8px;
-color: white;
-text-align: center;
-padding: 14px 16px;
-text-decoration: none;
-}

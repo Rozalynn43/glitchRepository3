@@ -25,22 +25,22 @@ video {
   max-width: 100%;
 }
 
-.container  > div {
+.nav  > div {
   padding: 10px;
   text-align: center;
   font-size: 2em;
   color: #F4ED27;
 }
 
-.container > div:nth-child(1) {
+.nav > div:nth-child(1) {
   background-color: #009693;
 }
 
-.container > div:nth-child(2) {
+.nav > div:nth-child(2) {
   background-color: #68C1B9;
 }
 
-.container > div:nth-child(3) {
+.nav > div:nth-child(3) {
   background-color: #800080;
 }
 
