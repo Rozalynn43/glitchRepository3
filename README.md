@@ -1,4 +1,4 @@
-# Hello Website (blank)
+# Hello HYPE Facilitator (blank)
 
 This is a basic static HTML starter personal portfolio you will build through guided and instruction and self discovery.
 
