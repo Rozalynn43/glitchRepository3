@@ -27,18 +27,21 @@ video {
 }
 
 .nav  > div {
-  padding: 10px;
+  
+  margin-left:20px;
   text-align: center;
   font-size: 2em;
-  color: #F4ED27;
+  color: #1e7135;
+  border-style: dashed =;
+  border
 }
 
 .nav > div:nth-child(1) {
-  background-color: #009693;
+  background-color: #1e7135;
 }
 
 .nav > div:nth-child(2) {
-  background-color: #68C1B9;
+  background-color: #1e7135;
 }
 
 .nav > div:nth-child(3) {
@@ -52,6 +55,6 @@ video {
   left: ;
   bottom: ;
   width: ;
-  background-color: #D8DED6;
+  background-color: #1e7135;
   text-align: center;
 }
