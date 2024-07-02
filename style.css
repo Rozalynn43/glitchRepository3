@@ -17,6 +17,7 @@ html, body {
   font-family: sans-serif;
   line-height: 1.5;
   margin: 10px;
+
 }
 
 /* images and videos max out at full width */
@@ -26,26 +27,25 @@ video {
   max-width: 100%;
 }
 
-.nav  > div {
+.nav  > a >div {
   
-  margin-left:20px;
+  padding:20px;
   text-align: center;
   font-size: 2em;
   color: #1e7135;
-  border-style: dashed =;
-  border
+ 
 }
 
-.nav > div:nth-child(1) {
-  background-color: #1e7135;
+.nav> a:nth-child(1) {
+  background-color: #abe4ef; 
 }
 
-.nav > div:nth-child(2) {
-  background-color: #1e7135;
+.nav > a:nth-child(2) {
+  background-color: #1eb8d3;
 }
 
-.nav > div:nth-child(3) {
-  background-color: #800080;
+.nav > a:nth-child(3){
+  background-color: #1eb8d3;
 }
 
 #footer {
